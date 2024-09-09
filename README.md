@@ -15,7 +15,7 @@ concept drift occurrences.
 a.
 Multilayer Perceptron (MLP) [7] models are utilized for cause-effect
 analysis.
-b.
+  
 4. MLP Model Architecture:
 a.Two MLP models are implemented:
 i.Model 1: Takes only the primary perspective (x) as input.
